@@ -138,6 +138,7 @@ function getMysqlConfig(connectionUrl) {
     user: dbUser,
     password: dbPassword,
     database: dbName,
+    connectTimeout: 90000
   };
   return dbConnection;
 }
