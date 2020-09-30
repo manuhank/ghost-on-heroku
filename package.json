@@ -24,8 +24,7 @@
     "vapor": "github:sethlilly/Vapor#v1.6.0",
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
-    "liebling": "github:snathjr/liebling",
-    "mapache":"github:godofredoninja/Mapache"
+    "liebling": "github:snathjr/liebling"
   },
   "engines": {
     "node": "10.X"

@@ -1,0 +1,86 @@
+{
+  "_from": "github:godofredoninja/Mapache",
+  "_id": "mapache-godofredoninja@3.1.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/mapache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "mapache@github:godofredoninja/Mapache",
+    "name": "mapache",
+    "escapedName": "mapache",
+    "rawSpec": "github:godofredoninja/Mapache",
+    "saveSpec": "github:godofredoninja/Mapache",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:godofredoninja/Mapache#b826555422a9069b58ac95714b324bb9f066fa9a",
+  "_spec": "mapache@github:godofredoninja/Mapache",
+  "_where": "D:\\Desktop\\temperamento\\heroku\\ghost-on-heroku",
+  "author": {
+    "name": "GodoFredoNinja",
+    "email": "hello@godofredo.ninja",
+    "url": "https://godofredo.ninja"
+  },
+  "bugs": {
+    "url": "https://github.com/godofredoninja/mapache/issues",
+    "email": "hello@godofredo.ninja"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "posts_per_page": 15,
+    "image_sizes": {
+      "xxs": {
+        "width": 30
+      },
+      "xs": {
+        "width": 100
+      },
+      "s": {
+        "width": 300
+      },
+      "m": {
+        "width": 600
+      },
+      "l": {
+        "width": 1000
+      },
+      "xl": {
+        "width": 2000
+      }
+    }
+  },
+  "demo": "https://godofredo.ninja",
+  "deprecated": false,
+  "description": "mapache theme for ghost by @GodoFredoNinja",
+  "engines": {
+    "ghost": ">=3.0.0",
+    "ghost-api": "v3"
+  },
+  "gpm": {
+    "type": "theme",
+    "categories": [
+      "Minimal",
+      "Magazine",
+      "Blog"
+    ]
+  },
+  "homepage": "https://github.com/godofredoninja/mapache#readme",
+  "keywords": [
+    "ghost",
+    "theme",
+    "ghost-theme",
+    "GodoFredoNinja"
+  ],
+  "license": "gpl-3.0",
+  "name": "mapache-godofredoninja",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godofredoninja/mapache.git"
+  },
+  "version": "3.1.1"
+}
